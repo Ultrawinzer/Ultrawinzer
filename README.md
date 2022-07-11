@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ultrawinzer
-- 👀 I’m interested in special things.
-- 🌱 I’m currently learning Node.
-- 💞️ I’m looking to collaborate on your mom.
+- 👀 I’m interested in Python, Automation, WebApps and NodeJS.
+- 🌱 I’m currently learning NodeJS.
+- 💞️ I’m looking to collaborate on some fun projects, so hit me up.
 - 📫 How to reach me, here.
 
 <!---
